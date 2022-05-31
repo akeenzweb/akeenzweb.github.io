@@ -1,0 +1,100 @@
+.underline2 {
+    position: relative;
+    transform: translateY(-30px);
+    right: 685px;
+}
+
+.we-are-a-company {
+    font-family: 'poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 80px;
+    line-height: 90px;
+    letter-spacing: -0.05em;
+
+    margin-left: 126px;
+}
+.green-circle {
+   margin-left: 300px;
+   display: inline-block;
+}
+.peach-circle {
+    margin-left: 950px;
+}
+.people {
+    font-family: 'poppins';
+    margin-left: 126px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 45px;
+    line-height: 50px;
+    letter-spacing: -0.05em;
+    margin-top: 71px;
+    width: 900px;
+    margin-top: -50px;
+}
+.yellow-woman {
+    border-radius: 50%;
+    transform: translateX(660px) translateY(-80px);
+}
+.bulb {
+    display: inline-block;
+    margin-left: 950px;
+    transform: translateY(-100px);
+}
+.top {
+    transform: translateY(-90px);
+}
+.purple-guy {
+    border-radius: 50%;
+    transform: translateX(-80px) translateY(30px) scale(0.9);
+    position: absolute;
+}
+.lady {
+    border-radius: 50%;
+    transform: translateX(-200px) translateY(250px) scale(0.9);
+    position: absolute;
+}
+.man {
+    border-radius: 50%;
+    transform: translateX(-9px) translateY(550px) scale(0.9);
+    position: absolute;
+}
+.calling {
+    margin-left: 126px;
+    margin-top: 68px;
+}
+.black2 {
+    background-color: black;
+    height: 1300px;
+    margin-top: 56px;
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+}
+.we-wake {
+    font-family: 'poppins';
+    color: #fff;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 35px;
+    line-height: 50px;
+    letter-spacing: -0.05em;
+    width: 500px;
+
+    margin-top: 170px;
+
+}
+.we-wake2 {
+    font-family: 'poppins';
+    color: #fff;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 35px;
+    line-height: 50px;
+    letter-spacing: -0.05em;
+    width: 500px;
+
+    margin-top: 270px;
+
+}

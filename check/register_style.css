@@ -1,0 +1,105 @@
+.underline3 {
+    position: relative;
+    transform: translateY(-30px);
+    right: 510px;
+}
+body {
+    background-color: white;
+}
+.first-container {
+    text-align: centers;
+    height: 800px;
+    transform: translateY(-275px);
+
+}
+.color {
+    background-color: #FFF6FF;
+    /* transform: translateY(-80px); */
+    height: 350px;
+}
+.we-are-obsessed {
+    position: relative;
+    font-family: 'poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 80px;
+    line-height: 90px;
+    text-align: center;
+    letter-spacing: -0.05em;
+    width: 1100px;
+
+    /* margin-left: 131px; */
+    margin-top: 122px;
+
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.how-we-built {
+    font-family: 'poppins';
+    text-align: center;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+    margin-top: 91px;
+}
+.our-expert {
+    font-family: 'poppins';
+    text-align: center;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    width: 661px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 26px;
+
+}
+.table {
+    margin-left: 80px;
+    transform: scale(0.78) scaleY(1.05) ;
+    margin-top: -360px;
+}
+.move-container {
+    transform: translateY(-1070px);
+}
+
+.num1{
+    transform: translateX(-200px);
+}
+.restaurant-box {
+    transform: translateY(20px) translateX(-30px);
+}
+.restaurant {
+    transform: translateY(20px) translateX(-230px);
+}
+.number1 {
+    transform: translateY(-260px);
+}
+.trying-to {
+    font-family: 'poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 50px;
+    letter-spacing: -0.05em;
+    text-align: left;
+    width: 499px;
+    transform: translateY(40px) translateX(100px);
+}
+.you-are-here {
+    font-family: 'poppins';
+    text-align: left;
+    transform: translateY(40px) translateX(100px);
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 25px;
+    width: 451px;
+
+}
